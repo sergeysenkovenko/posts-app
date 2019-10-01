@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Post 45",
+      "body": "Lorem ipsum",
+      "id": 3
+    },
+    {
+      "title": "Post 656",
+      "body": "Lorem ipsum",
+      "id": 5
+    },
+    {
+      "title": "Post Lorem",
+      "body": "Some text",
+      "id": 6
+    }
+  ]
+}
