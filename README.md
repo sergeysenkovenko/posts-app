@@ -5,16 +5,10 @@ install dependencies
 ```bash
 npm install
 ```
-serve with hot reload at localhost:3000
+serve at localhost:3000 and run json-server at localhost:3004
 
 ```bash
 npm run start
-```
-
-run json-server at localhost:3004
-
-```bash
-npm run json-server
 ```
 
 build for production with minification
